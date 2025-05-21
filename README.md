@@ -28,19 +28,9 @@ A simple and elegant web-based Resume (CV) Generator that helps users create a p
 - [SweetAlert2](https://sweetalert2.github.io/)
 - [Bootstrap Icons](https://icons.getbootstrap.com/)
 
-## 📷 Screenshots
+## 📷 Project Demo
 
-> Add screenshots here by dragging your image into this README or referencing an online image URL.
-
-## 📁 File Structure
-
-📦 resume-maker
-├── index.html # Main application file
-└── README.md # Project documentation
-
-pgsql
-Copy
-Edit
+[▶️ Watch the Demo](https://github.com/user-attachments/assets/65567980-2141-4bbf-92ee-2a81ae68d0f0)
 
 ## ⚙️ How to Use
 
@@ -48,13 +38,6 @@ Edit
 2. Open `index.html` in any modern web browser.
 3. Fill out your resume details.
 4. Click **Generate CV** to see the preview.
-5. Optionally, use browser print (Ctrl+P) to save as PDF.
-
-## 📌 Notes
-
-- Make sure JavaScript is enabled in your browser.
-- No backend is involved; everything works client-side.
-- For a better experience, run it through a local server or deploy using GitHub Pages.
 
 ## 📬 Contact
 
